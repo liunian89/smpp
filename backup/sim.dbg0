@@ -1,8 +1,0 @@
-00:48:58 main: main() trace group 3 deactivated
-00:48:58 main: main() trace group 6 deactivated
-00:48:58 main: main() trace group 8 deactivated
-00:48:58 main: main() trace group 18 deactivated
-00:48:58 main: main() simulator started
-00:49:03    main: DeliveryInfoSender.start() entered
-00:49:03    DlvrInfoSender-1: DeliveryInfoSender.run() entered
-00:49:03    main: DeliveryInfoSender.start() exited
